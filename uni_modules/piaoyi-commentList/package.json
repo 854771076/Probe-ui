@@ -1,0 +1,14 @@
+{
+    "id": "piaoyi-commentList",
+    "name": "piaoyi-commentList 评论列表",
+    "displayName": "piaoyi-commentList 评论列表",
+    "version": "1.0.1",
+    "description": "评论列表，元素多样化",
+    "keywords": [
+        "评论列表",
+        "元素多样化"
+    ],
+    "dcloudext": {
+        "type": "component-vue"
+    }
+}
