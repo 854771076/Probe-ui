@@ -12,7 +12,7 @@ uni.$version='V1.0.0'
 //全局组件配置，其中$tui 为约定值，不可修改。
 uni.$tui = propsConfig
 uni.$api = api
-let env='dev1'
+let env='dev'
 if(env=='dev'){
 	uni.$apiServer='http://127.0.0.1:8000'
 	uni.$Server='http://127.0.0.1:8080'
